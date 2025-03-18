@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class array_20250318 {
+public class prac_3_7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int intArray[] = new int[5]; // 배열 생성
