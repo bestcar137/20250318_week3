@@ -1,6 +1,7 @@
 public class prac_3_10 {
     public static void main(String[] args) {
         double score[][] = {
+
                 {3.3, 3.4},
                 {3.5, 3.6},
                 {3.7, 4.0},
