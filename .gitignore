@@ -1,0 +1,33 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build output directories
+out/
+build/
+target/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# VS Code (보조 사용 시)
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
