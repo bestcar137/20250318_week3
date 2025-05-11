@@ -1,6 +1,6 @@
 package CH_code.ch03;
 
-public class prac_3_10 {
+public class prac3_10 {
     public static void main(String[] args) {
         double score[][] = {
 

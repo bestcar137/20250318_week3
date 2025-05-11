@@ -2,7 +2,7 @@ package CH_code.ch03;
 
 import java.util.Scanner;
 
-public class prac_3_15 {
+public class prac3_15 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

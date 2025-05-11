@@ -2,7 +2,7 @@ package CH_code.ch03;
 
 import java.util.Scanner;
 
-public class JavaHW_3_6 {
+public class HW3_6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

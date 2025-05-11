@@ -2,11 +2,11 @@ package CH_code.ch03;
 
 import java.util.Scanner;
 
-public class prac_3_8 {
+public class prac3_8 {
 
     public static void main(String[] args) {
 
-        int intArray[] = new int[5];
+        int[] intArray = new int[5];    // c언어에서는 int intArray[];
 
         int sum = 0;
 
@@ -15,8 +15,11 @@ public class prac_3_8 {
         for (int i = 0; i < intArray.length; i++)
             intArray[i] = sc.nextInt();
 
-        for (int i = 0; i < intArray.length; i++)
-            sum += intArray[i];
+        for (int j : intArray) sum += j;
+        /*
+         * for (int i = 0; i < intArray.length; i++)
+         *  sum += intArray[i];
+         */
 
         System.out.println("평균은" + (double) sum / intArray.length);
         sc.close();

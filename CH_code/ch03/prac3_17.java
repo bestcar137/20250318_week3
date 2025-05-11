@@ -3,11 +3,12 @@ package CH_code.ch03;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class prac_3_17 {
+public class prac3_17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("정수 3개를 입력하세요");
-        int sum = 0, n = 0;
+        int sum = 0;
+        int n;
         for (int i = 0; i < 3; i++) {
             System.out.print(i + ">>");
             try {
