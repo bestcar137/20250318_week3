@@ -1,5 +1,5 @@
 package CH_code.ch09; /**
- * 예제 9-3 : FlowLayout 배치관리자 활용
+ * 예제 prac11_9.java-3 : FlowLayout 배치관리자 활용
  * 수평 간격이 30, 수직 간격을 40픽셀로 설정
  * LEFT로 정렬 배치하는 FlowLayout 배치관리자를 가진 컨텐트팬에
  * 5개의 버튼 컴포넌트를 부착한 스윙 응용프로그램을 작성하라.

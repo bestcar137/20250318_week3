@@ -1,6 +1,6 @@
 package CH_code.ch09;
 /**
-  예제 9-4 : BorderLayout 배치관리자를 사용하는 예
+  예제 prac11_9.java-4 : BorderLayout 배치관리자를 사용하는 예
   BorderLayout 배치관리자를 사용하여
   컨텐트팬에 다음과 같이 5개의 버튼 컴포넌트를 삽입하라.
  */

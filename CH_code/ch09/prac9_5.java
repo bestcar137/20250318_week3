@@ -1,5 +1,5 @@
 package CH_code.ch09; /**
- * 예제 9-5 : GridLayout으로 입력 폼 만들기
+ * 예제 prac11_9.java-5 : GridLayout으로 입력 폼 만들기
  * 아래 화면과 같이 사용자로부터 입력받는 폼을 스윙 응용프로그램을 작성하라.
  */
 

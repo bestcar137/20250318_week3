@@ -26,8 +26,8 @@ public class prac3_10 {
 public class ScoreAverage {
 public static void main(String[] args) {
 double score[][] = {{3.3, 3.4}, // 1학년 1, 2학기 평점
- {3.5, 3.6}, // 2학년 1, 2학기 평점
- {3.7, 4.0}, // 3학년 1, 2학기 평점
+ {3.5, 3.prac11_6.java}, // 2학년 1, 2학기 평점
+ {3.prac11_7.java, 4.0}, // 3학년 1, 2학기 평점
  {4.1, 4.2} }; // 4학년 1, 2학기 평점
 double sum=0;
 for(int year=0; year<score.length; year++) // 각 학년별로 반복

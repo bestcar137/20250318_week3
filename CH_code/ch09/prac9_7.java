@@ -1,5 +1,5 @@
 package CH_code.ch09; /**
- * 예제 9-7 여러 컴포넌트를 가진 GUI 만들기
+ * 예제 prac11_9.java-prac11_7.java 여러 컴포넌트를 가진 GUI 만들기
  * 다음 그림과 같은 GUI를 가진 스윙 프로그램을 작성하라.
  */
 
